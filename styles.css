@@ -1,0 +1,30 @@
+h1,
+h3,
+p,
+ul,
+ol,
+img {
+margin-left: 100px;
+}
+
+h1,
+h3 {
+    font-family: Georgia, serif;
+}
+
+p,
+ul,
+ol {
+    font-family: Verdana, sans-serif;
+}
+
+img {
+    width:300px;
+    height:auto;
+}
+
+ol,
+ul {
+    display: inline-block;
+    list-style-position: inside;
+}
